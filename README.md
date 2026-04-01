@@ -12,8 +12,8 @@
 
 <p align="center">
   <strong>Less complexity, more impact</strong><br/>
-  I'm a passionate developer who loves building things that make life easier and more enjoyable.<br/>
-  From <strong>Web Applications</strong> to <strong>Full-stack Solutions</strong>, I enjoy turning complex problems into elegant solutions.
+  I enjoy building things that are simple, powerful, and useful.<br/>
+  From <strong>Web Applications</strong> to <strong>Full-stack Systems</strong>, I focus on turning complex problems into elegant solutions.
 </p>
 
 <br/>
@@ -28,15 +28,21 @@
 
 <br/>
 
-<!-- <h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
+
+<br/>
+
+<h3 align="center">GitHub Stats</h3>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onepercman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onepercman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&langs_count=6" alt="Top Languages"/>
-</div> -->
 
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=onepercman&show_icons=true&hide_border=true&bg_color=000000&title_color=e7000b&icon_color=e7000b&text_color=ffffff&count_private=true"/>
+
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=onepercman&layout=compact&hide_border=true&bg_color=000000&title_color=e7000b&text_color=ffffff&langs_count=8"/>
+
+</div>
 
 <br/>
 
@@ -45,9 +51,17 @@
 <br/>
 
 <div align="center">
-  <a href="https://onepercman.github.io/"><img src="https://img.shields.io/badge/Website-e7000b?style=for-the-badge&logoColor=white" alt="Website"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/onepercman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<a href="https://onepercman.com">
+  <img src="https://img.shields.io/badge/Website-e7000b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/onepercman">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
 
 <br/>
